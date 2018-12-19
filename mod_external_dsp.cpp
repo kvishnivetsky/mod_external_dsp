@@ -24,8 +24,9 @@
  * Contributor(s):
  *
  * Anthony Minessale II <anthm@freeswitch.org>
+ * Konstantin S. Vishnivetsky <voip-projects@vishnivetsky.ru>
  *
- * mod_external_dsp.cpp -- Example of writeable media bugs
+ * mod_external_dsp.cpp -- External DSP(digital Signal Processor) interface for FreeSwitch(TM) communications platform
  *
  */
 
