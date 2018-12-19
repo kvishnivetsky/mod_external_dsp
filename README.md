@@ -1,4 +1,4 @@
-External DSP(Digital Signal Processor) interface for FreeSWITCH(TM) voice communications platform
+External DSP(Digital Signal Processor) interface for FreeSwitch(TM) voice communications platform
 ===============================
 This module allow you to use any external application to proceed media trafic inside of FreeSwich(TM) channel.
 Your application should be able to receive voice stream from STDIN and send voice stream to STDOUT.
