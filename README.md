@@ -8,9 +8,9 @@ Building as a part of FreeSwitch(TM) source tree
 --------------------
 To build module as a part of FreeSwitch source tree perform following steps:
 
-- Add it as a git submodule git submodule add --name kvishnivetsky-mod_external_dsp https://github.com/kvishnivetsky/mod_external_dsp src/mod/applications/mod_external_dsp
-- Add  src/mod/applications/mod_extenal_dsp/Makefile to AC_CONFIG_FILES of configure.ac
-- Add applications/mod_external_dsp to modules.conf
+- Add it as a ``git submodule add --name kvishnivetsky-mod_external_dsp https://github.com/kvishnivetsky/mod_external_dsp src/mod/applications/mod_external_dsp``
+- Add ``src/mod/applications/mod_external_dsp/Makefile`` to ``AC_CONFIG_FILES`` of ``configure.ac``
+- Add ``applications/mod_external_dsp`` to ``modules.conf``
 - Build entire FreeSwitch project or module only
 
 Configuration
